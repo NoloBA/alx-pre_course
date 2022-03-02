@@ -1,2 +1,1 @@
-The 2nd and probably more correct Repo session
-
+I'm updating this read me from the github interface
